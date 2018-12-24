@@ -1,0 +1,6 @@
+[Server-optional]
+name=Server-optional
+baseurl=xx
+enabled=1
+gpgcheck=0
+skip_if_unavailable=1

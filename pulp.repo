@@ -1,0 +1,6 @@
+
+[pulp.dist.prod.ext.phx2.redhat.com_content_dist_rhel_server_7_7Server_x86_64_extras_os_]
+name=added from: http://pulp.dist.prod.ext.phx2.redhat.com/content/dist/rhel/server/7/7Server/x86_64/extras/os/
+baseurl=http://pulp.dist.prod.ext.phx2.redhat.com/content/dist/rhel/server/7/7Server/x86_64/extras/os/
+enabled=1
+gpgcheck=0

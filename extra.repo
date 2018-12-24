@@ -1,0 +1,6 @@
+[extra]
+name=extra
+baseurl=http://pulp.dist.prod.ext.phx2.redhat.com/content/dist/rhel/server/7/7Server/x86_64/extras/os/
+enabled=1
+gpgcheck=0
+
